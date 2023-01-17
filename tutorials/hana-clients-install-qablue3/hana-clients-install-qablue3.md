@@ -1,5 +1,5 @@
 ---
-title: Install the SAP HANA Client QA Blue repo 3
+title: Install the SAP HANA Client QA Blue repo 3 updated
 description: Learn about the multiple ways to install the SAP HANA client.
 auto_validation: true
 time: 10
@@ -8,7 +8,7 @@ primary_tag: products>analytic-applications
 ---
 
 ## Prerequisites
- - A Microsoft Windows, Mac, or Linux machine
+ - A Microsoft Windows, Mac, or Linux machine test text
 
 ## Details
 ### You will learn
@@ -20,6 +20,8 @@ This tutorial will demonstrate how to install the SAP HANA client.  The next tut
 ---
 
 [ACCORDION-BEGIN [Step 1: ](The SAP HANA Client)]
+
+Text
 
 The SAP HANA client provides a set of utilities and drivers to connect to and query a SAP HANA database from multiple programming APIs, such as Node.js, Python or Java as shown below.  
 
